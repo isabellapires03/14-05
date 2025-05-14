@@ -6,4 +6,37 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(204, 197, 157);
     line-height: 2.5;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.bloco-destaque {
+  display: flex;
+  align-items: center;
+  gap: 20px; 
+  margin-bottom: 40px;
+  justify-content: flex-start; 
+}
+
+.texto-destaque {
+  color: #8db2c4; 
+  font-family: 'Arial', sans-serif; 
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 500px; 
+  text-align: justify;
+}
+
+
+.imagem-destaque-direita {
+  width: 350px; 
+  height: auto;
+  border-radius: 8px;
+}
+
+.imagem-destaque-esquerda {
+  width: 350px; 
+  height: auto;
+  border-radius: 8px;
 }
