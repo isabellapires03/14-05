@@ -1,6 +1,7 @@
 
 .container{
+    font-size: 45px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: hotpink;
-    line-height: 0.5;
+    line-height: 2.5;
 }
