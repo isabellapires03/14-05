@@ -2,10 +2,10 @@ body{
     background-color: rgb(27, 51, 5);
 }
 .container{
-    font-size: 45px;
+    font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(204, 197, 157);
-    line-height: 2.5;
+    line-height: 1;
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
