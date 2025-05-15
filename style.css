@@ -10,7 +10,6 @@ body{
     margin: 0 auto;
     padding: 20px;
 }
-
 .bloco-destaque {
   display: flex;
   align-items: center;
@@ -18,7 +17,6 @@ body{
   margin-bottom: 40px;
   justify-content: flex-start; 
 }
-
 .texto-destaque {
   color: #8db2c4; 
   font-family: 'Arial', sans-serif; 
@@ -27,14 +25,11 @@ body{
   max-width: 500px; 
   text-align: justify;
 }
-
-
 .imagem-destaque-direita {
   width: 350px; 
   height: auto;
   border-radius: 8px;
 }
-
 .imagem-destaque-esquerda {
   width: 350px; 
   height: auto;
