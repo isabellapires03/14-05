@@ -22,8 +22,8 @@ body{
 .texto-destaque {
   color: #8db2c4; 
   font-family: 'Arial', sans-serif; 
-  font-size: 18px;
-  line-height: 1.6;
+  font-size: 15px;
+  line-height: 1;
   max-width: 500px; 
   text-align: justify;
 }
