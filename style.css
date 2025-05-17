@@ -25,12 +25,7 @@ body{
   max-width: 500px; 
   text-align: justify;
 }
-.imagem-destaque-direita {
-  width: 350px; 
-  height: auto;
-  border-radius: 8px;
-}
-.imagem-destaque-esquerda {
+.imagem-destaque{
   width: 350px; 
   height: auto;
   border-radius: 8px;
