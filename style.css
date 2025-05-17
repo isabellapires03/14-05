@@ -9,8 +9,8 @@ h1{
   line-height: 1;
   max-width: 500px; 
   text-align: justify;
-
 }
+
 .container{
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -30,7 +30,7 @@ h1{
 .texto-destaque {
   color: rgb(204, 197, 157); 
   font-family: 'Arial', sans-serif; 
-  font-size: 21px;
+  font-size: 20px;
   line-height: 1;
   max-width: 500px; 
   text-align: justify;
