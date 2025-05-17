@@ -18,7 +18,7 @@ body{
   justify-content: flex-start; 
 }
 .texto-destaque {
-  color: #8db2c4; 
+  color: rgb(204, 197, 157); 
   font-family: 'Arial', sans-serif; 
   font-size: 15px;
   line-height: 1;
