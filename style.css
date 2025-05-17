@@ -1,6 +1,16 @@
 body{
     background-color: rgb(27, 51, 5);
 }
+
+h1{
+  color: rgb(204, 197, 157);
+  font-family: 'Arial', sans-serif; 
+  font-size: 30px;
+  line-height: 1;
+  max-width: 500px; 
+  text-align: justify;
+
+}
 .container{
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -26,6 +36,11 @@ body{
   text-align: justify;
 }
 .imagem-destaque{
+  width: 350px; 
+  height: auto;
+  border-radius: 8px;
+}
+.imagem-destaque-esquerda {
   width: 350px; 
   height: auto;
   border-radius: 8px;
